@@ -9,7 +9,7 @@ body {
 }
 
 #container {
-    width: 750px;
+    width: 1530px;
     margin: 0px;
     border: 2px solid red;
 }
@@ -17,6 +17,7 @@ body {
 #topo {
     border: 2px solid green;
     height: 150px;
+    width: 1530px;
     background: url(../img/detalhe-topo.png) no-repeat right top;
     padding-top: 25px;
 }
