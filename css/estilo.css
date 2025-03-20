@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "trebuchet MS" Arial, Helvetica, sans-serif;
+    background: #fff url(caminho da imagem ) repeat-x;   
+}
+
+#conteiner {
+    width: 750px;
+    margin: 0px;
+    border: 1px solid red;
+
+}
+
+#topo {
+    height: 750px;
+    border: 5px solid rgb(21, 255, 0);
+    background: url(../ caminha imagem detalhe topo) no-repeat right top;
+    padding-top: 25px;
+
+}
+
+.logo {
+    width: 152px;
+    height: 66px;
+    background: url(..-/imagem logo) no-repeat center;
+    text-indent: - 3000px;
+
+}
+
